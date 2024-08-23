@@ -100,14 +100,11 @@ I welcome contributions and discussions! If you have ideas, questions, or discov
 
 If you would like to contribute directly to the project, you can submit a pull request based on community insights from the issues.
 
-### How to Contribute
-
-1. **Fork the Repository**: Click the "Fork" button on the top right of this page to create a personal copy of the repository.
-2. **Clone the Fork**: Use `git clone` to clone your fork locally.
-3. **Create a Branch**: Make a branch for your feature or fix using `git checkout -b branch-name`.
-4. **Make Changes**: Commit your changes with clear and concise commit messages.
-5. **Push to Your Fork**: Push your branch to your forked repository on GitHub.
-6. **Open a Pull Request**: Submit a pull request to the original repository. Make sure to link any related issues in your PR description.
 
 Thank you for considering contributing to this project! We look forward to your ideas and improvements.
 
+---
+
+## Acknowledgements
+
+A special thank  to the man at [haveibeenpwned.com](https://haveibeenpwned.com) for the invaluable work in collecting and providing access to data from breaches and leaks. Your dedication to making this information available is crucial for enhancing internet security and awareness. I deeply appreciate the effort you put into maintaining this essential resource.
