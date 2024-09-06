@@ -1,6 +1,6 @@
 # Common PIN Analysis from haveibeenpwned.com
 
-This project involves gathering data from [haveibeenpwned.com](https://haveibeenpwned.com) for all possible PIN codes. We created an ordered wordlist based on the popularity of these PIN codes and provided visualizations to identify patterns.
+This project involves gathering data from [haveibeenpwned.com](https://haveibeenpwned.com) for all possible PIN codes. I created an ordered wordlist based on the popularity of these PIN codes and provided visualizations to identify patterns.
 
 
 ## Popular PIN Codes
