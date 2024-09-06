@@ -21,6 +21,14 @@ Below is a list of the most popular 4-digit PIN codes:
 
 [Download 4-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/4%20PIN%20by%20Slon104.txt)
 
+### 5-Digit PINs
+
+Below is a list of the most popular 4-digit PIN codes:
+
+`12345`, `11111`, `55555`, `12413`, `00000`, `54321`, `13579`, `98765`, `22222`, `77777`
+
+[Download 4-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/5%20PIN%20by%20Slon104.txt)
+
 ### 6-Digit PINs
 
 Below is a list of the most popular 6-digit PIN codes:
