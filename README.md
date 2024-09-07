@@ -23,7 +23,7 @@ Below is a list of the most popular 4-digit PIN codes:
 
 ### 5-Digit PINs
 
-Below is a list of the most popular 4-digit PIN codes:
+Below is a list of the most popular 5-digit PIN codes:
 
 `12345`, `11111`, `55555`, `12413`, `00000`, `54321`, `13579`, `98765`, `22222`, `77777`
 
