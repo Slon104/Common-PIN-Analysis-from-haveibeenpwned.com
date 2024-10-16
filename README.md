@@ -39,7 +39,7 @@ Below is a list of the most popular 6-digit PIN codes:
 
 ### Legacy 2012
 
-Below is a list of the most popular PIN codes from the 2012 legacy data:
+Below is a list of the most popular PIN codes from the 2012 legacy credit card data:
 
 `1234`, `1111`, `0000`, `1212`, `7777`, `1004`, `2000`, `2222`, `4444`, `6969`
 
