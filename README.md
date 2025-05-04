@@ -27,7 +27,7 @@ Below is a list of the most popular 5-digit PIN codes:
 
 `12345`, `11111`, `55555`, `12413`, `00000`, `54321`, `13579`, `98765`, `22222`, `77777`
 
-[Download 5-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/5%20PIN%20by%20Slon104.txt)
+[Download 5-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/5%20PIN%20by%20Slon104.7z)
 
 ### 6-Digit PINs
 
@@ -36,6 +36,15 @@ Below is a list of the most popular 6-digit PIN codes:
 `123456`, `111111`, `123123`, `000000`, `123321`, `654321`, `666666`, `121212`, `112233`, `555555`
 
 [Download 6-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/6%20PIN%20by%20Slon104.txt)
+
+### 8-Digit PINs
+
+Below is a list of the most popular 8-digit PIN codes:
+
+`12345678`, `11111111`, `12341234`, `00000000`, `12344321`, `11223344`, `99999999`, `12121212`, `98765432`, `55555555`
+
+
+[Download 8-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/8%20PIN%20by%20Slon104.txt)
 
 ### Legacy 2012
 
