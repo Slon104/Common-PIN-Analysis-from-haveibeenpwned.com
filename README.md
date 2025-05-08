@@ -41,7 +41,7 @@ Below is a list of the most popular 6-digit PIN codes:
 
 Below is a list of the most popular 8-digit PIN codes:
 
-`12345678`, `11111111`, `12341234`, `00000000`, `12344321`, `11223344`, `99999999`, `12121212`, `98765432`, `55555555`
+`12345678`, `11223344`, `11111111`, `88888888`, `87654321`, `12341234`, `00000000`, `12344321`, `10203040`, `12121212`,
 
 
 [Download 8-digit PIN wordlist](https://github.com/Slon104/Common-PIN-Analysis-from-haveibeenpwned.com/blob/main/Word%20Lists/8%20PIN%20by%20Slon104.7z)
